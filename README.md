@@ -6,3 +6,5 @@ Para ejecutar simplemente haz:
 pip install -r requirements.txt
 ```
 Y ejecute el script this_person.py
+
+El Script fue hecho con Python: 3.11.4
